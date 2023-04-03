@@ -1,0 +1,28 @@
+{
+  "name": "cunctae-cunctum",
+  "displayName": "Cunctae Cunctum",
+  "description": "Cunctae Cunctum - All in one VSCode Theme",
+  "version": "0.0.0",
+  "publisher": "radapls",
+  "author": {
+    "name": "Juan Felipe Rada",
+    "email": "radapls8@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Radapls/cunctae-cunctum-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/Radapls/cunctae-cunctum-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Themes"
+  ]
+}

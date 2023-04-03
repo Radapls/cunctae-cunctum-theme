@@ -1,0 +1,29 @@
+{
+    "name": "cunctae-cunctum",
+    "type": "dark",
+    "semanticHighlighting": true,
+    "colors": {
+        // Editor
+        "editor.background": "#1e181f",
+        "editor.foreground": "#caaeeb",
+        "editor.selectionBackground": "#8504b867",
+        "editorCursor.foreground": "#ffff2e",
+        "editorLineNumber.foreground": "#8504b8",
+        "editorLineNumber.activeForeground": "#f0ec11",
+        "editor.lineHighlightBackground": "#7c02ff",
+        // Status Bar
+        "statusBar.background": "#8504b8",
+        "statusBar.foreground": "#ffffff",
+        "statusBarItem.hoverBackground": "#4a0366",
+        "statusBar.debuggingBackground": "#e29fa4",
+        "statusBar.debuggingForeground": "#1f172b",
+        "statusBar.border": "#ca84e5",
+        // Activity bar
+        "activityBar.background": "#8504b8",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.activeBorder": "#ffffff",
+        "activityBar.inactiveForeground": "#ffffff",
+        "activityBarBadge.background": "#f6fa00",
+        "activityBarBadge.foreground": "#1f172b",
+    }
+}
